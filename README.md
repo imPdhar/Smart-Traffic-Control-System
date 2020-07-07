@@ -1,4 +1,4 @@
-# Automatic Traffic Control System
+# Smart Traffic Control System
 
 This was the AI code that was designed for Traffic Management purposes in Rakuten's Rakathon 2.0 
 
