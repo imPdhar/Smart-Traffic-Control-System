@@ -18,9 +18,7 @@ The Inspiration and the backstory is documented in [Rakathon2.pdf](https://githu
 
 ## Requirements:
 
-- OpenCV- `pip install opencv-python`
-
-  - csv included  		
+- OpenCV- `pip install opencv-python` 		
 - Numpy- `pip install numpy`
 - An appropriate dataset like [coco](https://cocodataset.org/#download). 
 
