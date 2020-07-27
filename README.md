@@ -2,6 +2,8 @@
 
 This was the AI code that was designed for Traffic Management purposes in Rakuten's Rakathon 2.0 
 
+Was meant to be implemented on a Raspberry Pi with a camera module.
+
 The Inspiration and the backstory is documented in [Rakathon2.pdf](https://github.com/imPdhar/Traffic-Signal-Optimisation-/blob/master/Rakathon2.pdf) 
 
 ## Features 
